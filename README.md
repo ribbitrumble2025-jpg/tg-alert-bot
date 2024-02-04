@@ -5,3 +5,4 @@
 2024-01-29 split the fetcher out
 2024-02-01 cleanup dead code
 2024-02-04 add retry on 429
+2024-02-04 refactor parser
