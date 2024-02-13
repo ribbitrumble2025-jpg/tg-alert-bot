@@ -5,3 +5,4 @@
 2024-01-31 handle empty response
 2024-02-04 wip
 2024-02-10 cleanup dead code
+2024-02-13 split the fetcher out
