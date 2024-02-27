@@ -3,3 +3,4 @@
 2024-02-11 split the fetcher out
 2024-02-11 pagination fix
 2024-02-20 add tests
+2024-02-27 bump deps
