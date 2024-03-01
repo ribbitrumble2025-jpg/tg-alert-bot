@@ -4,3 +4,4 @@
 2024-02-11 pagination fix
 2024-02-20 add tests
 2024-02-27 bump deps
+2024-03-01 move config to env
