@@ -5,3 +5,4 @@
 2024-01-23 reduce noise
 2024-02-11 split the fetcher out
 2024-02-11 hotfix
+2024-04-30 cache the lookups
