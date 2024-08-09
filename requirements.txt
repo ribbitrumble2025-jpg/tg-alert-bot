@@ -7,3 +7,4 @@
 2024-04-28 handle empty response
 2024-07-04 split the fetcher out
 2024-08-08 reduce noise
+2024-08-09 log the raw payload
