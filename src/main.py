@@ -10,3 +10,4 @@
 2024-07-01 wire up queue
 2024-08-05 split the fetcher out
 2024-08-12 guard against None
+2024-08-17 wip
