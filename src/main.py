@@ -11,3 +11,4 @@
 2024-08-05 split the fetcher out
 2024-08-12 guard against None
 2024-08-17 wip
+2024-08-17 small perf pass
