@@ -12,3 +12,4 @@
 2024-08-06 wip
 2024-08-30 add retry on 429
 2024-08-30 typo
+2024-09-11 add cli flag
