@@ -7,3 +7,4 @@
 2024-05-04 pagination fix
 2024-06-27 dockerfile
 2024-08-12 lint
+2024-09-18 docs
