@@ -13,3 +13,4 @@
 2024-08-12 refactor parser
 2024-08-20 backoff on failure
 2024-08-30 dockerfile
+2024-12-29 lint
