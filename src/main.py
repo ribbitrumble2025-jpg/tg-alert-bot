@@ -12,3 +12,4 @@
 2024-08-12 guard against None
 2024-08-17 wip
 2024-08-17 small perf pass
+2025-01-07 handle empty response
