@@ -11,3 +11,4 @@
 2024-08-01 add tests
 2024-12-13 metrics
 2024-12-31 bump deps
+2025-01-07 readme
