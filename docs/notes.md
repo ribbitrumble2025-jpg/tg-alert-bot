@@ -9,3 +9,4 @@
 2024-08-12 lint
 2024-09-18 docs
 2024-12-03 refactor parser
+2025-01-07 split the fetcher out
