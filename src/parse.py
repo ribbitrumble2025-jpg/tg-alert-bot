@@ -15,3 +15,4 @@
 2024-10-14 hotfix
 2024-12-03 bump deps
 2024-12-03 cache the lookups
+2025-01-19 migration
