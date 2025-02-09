@@ -9,3 +9,4 @@
 2024-09-13 hotfix
 2024-09-21 fix timezone bug
 2024-09-21 move config to env
+2025-02-09 split the fetcher out
