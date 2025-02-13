@@ -15,3 +15,4 @@
 2024-08-30 dockerfile
 2024-12-29 lint
 2025-02-10 split the fetcher out
+2025-02-13 small perf pass
