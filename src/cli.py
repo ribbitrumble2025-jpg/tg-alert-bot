@@ -11,3 +11,4 @@
 2024-09-21 move config to env
 2025-02-09 split the fetcher out
 2025-03-08 bump deps
+2025-03-19 hotfix
