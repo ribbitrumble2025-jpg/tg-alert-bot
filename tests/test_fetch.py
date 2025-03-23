@@ -17,3 +17,4 @@
 2025-02-10 split the fetcher out
 2025-02-13 small perf pass
 2025-03-11 metrics
+2025-03-23 add cli flag
