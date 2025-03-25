@@ -14,3 +14,4 @@
 2025-01-07 readme
 2025-02-03 fix timezone bug
 2025-03-25 revert
+2025-03-25 add cli flag
