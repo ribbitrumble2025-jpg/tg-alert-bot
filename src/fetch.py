@@ -15,3 +15,4 @@
 2025-02-03 fix timezone bug
 2025-03-25 revert
 2025-03-25 add cli flag
+2025-03-28 add tests
