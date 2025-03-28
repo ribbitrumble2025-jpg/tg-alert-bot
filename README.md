@@ -16,3 +16,4 @@
 2024-09-12 add cli flag
 2025-01-05 log the raw payload
 2025-03-25 pagination fix
+2025-03-28 lint
