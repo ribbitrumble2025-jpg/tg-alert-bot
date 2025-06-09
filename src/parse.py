@@ -22,3 +22,4 @@
 2025-05-02 bump deps
 2025-05-15 pagination fix
 2025-05-24 small perf pass
+2025-06-09 bump deps
