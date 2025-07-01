@@ -20,3 +20,4 @@
 2025-05-06 split the fetcher out
 2025-06-10 drop unused import
 2025-06-17 pagination fix
+2025-07-01 refactor parser
