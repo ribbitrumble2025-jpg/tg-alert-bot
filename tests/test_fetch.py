@@ -20,3 +20,4 @@
 2025-03-23 add cli flag
 2025-05-01 wip 2
 2025-05-08 pagination fix
+2025-07-09 refactor parser
