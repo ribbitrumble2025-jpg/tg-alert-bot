@@ -26,3 +26,4 @@
 2025-06-29 add cli flag
 2025-07-09 typeshed
 2025-07-13 pagination fix
+2025-07-19 small perf pass
