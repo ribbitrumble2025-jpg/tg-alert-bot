@@ -14,3 +14,4 @@
 2025-05-15 reduce noise
 2025-06-02 refactor parser
 2025-07-09 bump deps
+2025-07-20 dockerfile
