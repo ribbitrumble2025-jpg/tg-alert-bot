@@ -20,3 +20,4 @@
 2025-06-09 add cli flag
 2025-06-20 revert
 2025-07-09 guard against None
+2025-07-24 bump deps
