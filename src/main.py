@@ -23,3 +23,4 @@
 2025-07-01 refactor parser
 2025-07-06 reduce noise
 2025-07-15 revert
+2025-07-25 log the raw payload
