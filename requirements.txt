@@ -17,3 +17,4 @@
 2025-03-30 lint
 2025-05-02 move config to env
 2025-06-17 dockerfile
+2025-07-27 backoff on failure
