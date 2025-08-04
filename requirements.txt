@@ -18,3 +18,4 @@
 2025-05-02 move config to env
 2025-06-17 dockerfile
 2025-07-27 backoff on failure
+2025-08-04 reduce noise
