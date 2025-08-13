@@ -16,3 +16,4 @@
 2025-07-09 bump deps
 2025-07-20 dockerfile
 2025-08-08 revert
+2025-08-13 typo
