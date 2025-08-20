@@ -14,3 +14,4 @@
 2025-03-19 hotfix
 2025-05-06 fix timezone bug
 2025-06-14 cleanup dead code
+2025-08-20 refactor parser
