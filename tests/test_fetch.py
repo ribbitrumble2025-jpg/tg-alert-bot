@@ -23,3 +23,4 @@
 2025-07-09 refactor parser
 2025-07-19 wire up queue
 2025-08-25 cleanup dead code
+2025-09-04 log the raw payload
