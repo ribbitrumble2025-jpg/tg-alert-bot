@@ -18,3 +18,4 @@
 2025-06-17 handle empty response
 2025-08-07 docs
 2025-08-27 readme
+2025-09-07 drop unused import
