@@ -17,3 +17,4 @@
 2025-08-20 refactor parser
 2025-08-25 revert
 2025-09-09 wip 2
+2025-09-09 typeshed
