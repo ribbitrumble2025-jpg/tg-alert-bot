@@ -22,3 +22,4 @@
 2025-07-09 reduce noise
 2025-09-04 lint
 2025-09-09 guard against None
+2025-09-12 handle empty response
