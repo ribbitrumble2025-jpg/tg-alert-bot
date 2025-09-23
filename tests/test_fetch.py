@@ -25,3 +25,4 @@
 2025-08-25 cleanup dead code
 2025-09-04 log the raw payload
 2025-09-17 fix timezone bug
+2025-09-23 add retry on 429
