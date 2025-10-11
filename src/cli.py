@@ -18,3 +18,4 @@
 2025-08-25 revert
 2025-09-09 wip 2
 2025-09-09 typeshed
+2025-10-11 small perf pass
