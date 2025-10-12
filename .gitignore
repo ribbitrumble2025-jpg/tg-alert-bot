@@ -25,3 +25,4 @@
 2025-09-12 handle empty response
 2025-09-23 revert
 2025-09-28 add tests
+2025-10-12 move config to env
