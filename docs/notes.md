@@ -22,3 +22,4 @@
 2025-08-27 refactor parser
 2025-08-29 migration
 2025-09-19 refactor parser
+2025-10-22 add cli flag
