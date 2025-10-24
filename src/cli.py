@@ -19,3 +19,4 @@
 2025-09-09 wip 2
 2025-09-09 typeshed
 2025-10-11 small perf pass
+2025-10-24 readme
