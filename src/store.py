@@ -20,3 +20,4 @@
 2025-08-27 readme
 2025-09-07 drop unused import
 2025-10-14 cleanup dead code
+2025-10-28 revert
