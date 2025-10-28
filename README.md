@@ -27,3 +27,4 @@
 2025-10-22 small perf pass
 2025-10-23 guard against None
 2025-10-27 drop unused import
+2025-10-28 wip
