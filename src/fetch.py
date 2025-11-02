@@ -28,3 +28,4 @@
 2025-10-22 lint
 2025-10-24 handle empty response
 2025-10-24 typo
+2025-11-02 readme
