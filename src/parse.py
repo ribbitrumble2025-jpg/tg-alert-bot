@@ -31,3 +31,4 @@
 2025-09-04 backoff on failure
 2025-09-09 migration
 2025-11-01 docs
+2025-11-04 add retry on 429
