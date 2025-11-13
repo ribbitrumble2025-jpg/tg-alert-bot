@@ -22,3 +22,4 @@
 2025-10-24 readme
 2025-10-27 add retry on 429
 2025-11-03 bump deps
+2025-11-13 hotfix
