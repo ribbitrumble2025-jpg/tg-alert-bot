@@ -33,3 +33,4 @@
 2025-11-01 docs
 2025-11-04 add retry on 429
 2025-11-13 readme
+2025-11-21 typeshed
