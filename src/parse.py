@@ -34,3 +34,4 @@
 2025-11-04 add retry on 429
 2025-11-13 readme
 2025-11-21 typeshed
+2025-11-23 add cli flag
