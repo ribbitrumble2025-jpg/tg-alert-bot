@@ -22,3 +22,4 @@
 2025-10-14 cleanup dead code
 2025-10-28 revert
 2025-11-25 bump deps
+2025-11-29 hotfix
