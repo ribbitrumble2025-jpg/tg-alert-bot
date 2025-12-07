@@ -35,3 +35,4 @@
 2025-11-06 wip 2
 2025-11-27 add tests
 2025-11-30 cache the lookups
+2025-12-07 readme
