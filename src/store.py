@@ -23,3 +23,4 @@
 2025-10-28 revert
 2025-11-25 bump deps
 2025-11-29 hotfix
+2025-12-16 handle empty response
