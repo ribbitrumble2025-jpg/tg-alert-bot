@@ -26,3 +26,4 @@
 2025-11-13 bump deps
 2025-11-21 migration
 2025-12-04 handle empty response
+2025-12-27 metrics
