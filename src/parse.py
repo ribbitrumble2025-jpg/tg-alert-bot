@@ -36,3 +36,4 @@
 2025-11-21 typeshed
 2025-11-23 add cli flag
 2025-12-23 hotfix
+2025-12-29 move config to env
