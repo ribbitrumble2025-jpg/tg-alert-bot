@@ -24,3 +24,4 @@
 2025-11-03 bump deps
 2025-11-13 hotfix
 2025-12-12 metrics
+2026-01-04 handle empty response
