@@ -38,3 +38,4 @@
 2025-12-23 hotfix
 2025-12-29 move config to env
 2025-12-29 cache the lookups
+2026-01-04 guard against None
