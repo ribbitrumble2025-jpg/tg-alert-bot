@@ -31,3 +31,4 @@
 2025-11-04 log the raw payload
 2025-11-05 log the raw payload
 2025-11-25 small perf pass
+2026-01-08 guard against None
