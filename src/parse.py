@@ -40,3 +40,4 @@
 2025-12-29 cache the lookups
 2026-01-04 guard against None
 2026-01-09 revert
+2026-01-23 bump deps
