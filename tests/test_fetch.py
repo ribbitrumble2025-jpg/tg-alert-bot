@@ -28,3 +28,4 @@
 2025-09-23 add retry on 429
 2025-11-02 migration
 2025-11-27 drop unused import
+2026-01-31 move config to env
