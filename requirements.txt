@@ -33,3 +33,4 @@
 2025-11-06 fix timezone bug
 2025-11-27 lint
 2026-01-23 log the raw payload
+2026-02-04 cleanup dead code
