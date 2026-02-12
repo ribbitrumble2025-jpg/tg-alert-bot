@@ -29,3 +29,4 @@
 2025-11-02 migration
 2025-11-27 drop unused import
 2026-01-31 move config to env
+2026-02-12 hotfix
