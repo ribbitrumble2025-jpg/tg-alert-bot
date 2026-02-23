@@ -29,3 +29,4 @@
 2025-12-27 metrics
 2026-01-06 reduce noise
 2026-01-18 typo
+2026-02-23 bump deps
