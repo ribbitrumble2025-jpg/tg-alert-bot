@@ -41,3 +41,4 @@
 2026-01-04 guard against None
 2026-01-09 revert
 2026-01-23 bump deps
+2026-05-04 typo
