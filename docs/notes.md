@@ -31,3 +31,4 @@
 2026-01-18 typo
 2026-02-23 bump deps
 2026-05-04 guard against None
+2026-05-12 lint
