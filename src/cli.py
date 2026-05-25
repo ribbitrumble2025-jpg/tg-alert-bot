@@ -26,3 +26,4 @@
 2025-12-12 metrics
 2026-01-04 handle empty response
 2026-02-23 reduce noise
+2026-05-25 dockerfile
