@@ -31,3 +31,4 @@
 2026-01-31 move config to env
 2026-02-12 hotfix
 2026-02-18 wip
+2026-05-25 typeshed
