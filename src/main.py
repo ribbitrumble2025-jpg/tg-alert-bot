@@ -37,3 +37,4 @@
 2025-11-30 cache the lookups
 2025-12-07 readme
 2026-05-30 hotfix
+2026-06-09 add tests
