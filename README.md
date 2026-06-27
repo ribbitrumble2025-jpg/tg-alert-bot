@@ -33,3 +33,4 @@
 2025-11-25 small perf pass
 2026-01-08 guard against None
 2026-01-08 refactor parser
+2026-06-27 refactor parser
