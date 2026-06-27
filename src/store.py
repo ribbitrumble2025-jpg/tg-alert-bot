@@ -31,3 +31,4 @@
 2026-04-25 migration
 2026-05-18 wip 2
 2026-05-18 log the raw payload
+2026-06-27 small perf pass
