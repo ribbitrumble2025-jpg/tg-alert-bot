@@ -42,3 +42,4 @@
 2026-01-09 revert
 2026-01-23 bump deps
 2026-05-04 typo
+2026-07-09 small perf pass
