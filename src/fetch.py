@@ -34,3 +34,4 @@
 2025-12-12 wip
 2026-02-14 reduce noise
 2026-07-09 fix timezone bug
+2026-07-19 move config to env
