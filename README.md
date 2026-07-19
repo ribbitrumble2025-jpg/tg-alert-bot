@@ -34,3 +34,4 @@
 2026-01-08 guard against None
 2026-01-08 refactor parser
 2026-06-27 refactor parser
+2026-07-19 fix timezone bug
