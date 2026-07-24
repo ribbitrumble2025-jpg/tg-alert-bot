@@ -33,3 +33,4 @@
 2026-05-04 guard against None
 2026-05-12 lint
 2026-06-27 typeshed
+2026-07-24 add retry on 429
