@@ -34,3 +34,4 @@
 2025-11-27 metrics
 2026-02-09 pagination fix
 2026-06-02 revert
+2026-07-24 guard against None
