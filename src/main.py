@@ -38,3 +38,4 @@
 2025-12-07 readme
 2026-05-30 hotfix
 2026-06-09 add tests
+2026-08-15 readme
