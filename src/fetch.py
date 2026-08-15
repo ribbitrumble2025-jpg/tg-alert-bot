@@ -35,3 +35,4 @@
 2026-02-14 reduce noise
 2026-07-09 fix timezone bug
 2026-07-19 move config to env
+2026-08-15 metrics
