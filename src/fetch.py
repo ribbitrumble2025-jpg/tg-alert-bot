@@ -36,3 +36,4 @@
 2026-07-09 fix timezone bug
 2026-07-19 move config to env
 2026-08-15 metrics
+2026-08-15 hotfix
