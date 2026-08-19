@@ -39,3 +39,4 @@
 2026-05-30 hotfix
 2026-06-09 add tests
 2026-08-15 readme
+2026-08-19 log the raw payload
