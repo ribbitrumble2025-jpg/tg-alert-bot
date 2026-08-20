@@ -40,3 +40,4 @@
 2026-06-09 add tests
 2026-08-15 readme
 2026-08-19 log the raw payload
+2026-08-20 pagination fix
