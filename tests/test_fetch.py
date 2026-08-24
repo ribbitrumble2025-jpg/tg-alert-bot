@@ -35,3 +35,4 @@
 2026-05-25 typeshed
 2026-07-24 typeshed
 2026-08-15 bump deps
+2026-08-24 small perf pass
