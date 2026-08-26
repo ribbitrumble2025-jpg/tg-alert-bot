@@ -42,3 +42,4 @@
 2026-08-19 log the raw payload
 2026-08-20 pagination fix
 2026-08-23 drop unused import
+2026-08-26 docs
