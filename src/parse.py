@@ -45,3 +45,4 @@
 2026-07-09 small perf pass
 2026-08-15 cache the lookups
 2026-08-23 refactor parser
+2026-08-31 add cli flag
