@@ -34,3 +34,4 @@
 2026-06-27 small perf pass
 2026-08-23 fix timezone bug
 2026-08-25 drop unused import
+2026-09-03 metrics
