@@ -36,3 +36,4 @@
 2026-07-24 typeshed
 2026-08-15 bump deps
 2026-08-24 small perf pass
+2026-09-13 split the fetcher out
