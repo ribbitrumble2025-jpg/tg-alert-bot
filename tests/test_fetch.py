@@ -38,3 +38,4 @@
 2026-08-24 small perf pass
 2026-09-13 split the fetcher out
 2026-09-15 pagination fix
+2026-09-19 docs
