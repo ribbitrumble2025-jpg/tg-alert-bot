@@ -44,3 +44,4 @@
 2026-08-23 drop unused import
 2026-08-26 docs
 2026-09-15 hotfix
+2026-10-02 metrics
