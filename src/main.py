@@ -46,3 +46,4 @@
 2026-09-15 hotfix
 2026-10-02 metrics
 2026-10-03 bump deps
+2026-10-03 wire up queue
