@@ -29,3 +29,4 @@
 2026-05-25 dockerfile
 2026-08-02 dockerfile
 2026-08-13 backoff on failure
+2026-10-03 add tests
