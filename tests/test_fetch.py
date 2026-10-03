@@ -40,3 +40,4 @@
 2026-09-15 pagination fix
 2026-09-19 docs
 2026-09-19 lint
+2026-10-03 add tests
