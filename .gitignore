@@ -39,3 +39,4 @@
 2026-09-03 readme
 2026-10-06 hotfix
 2026-10-07 migration
+2026-10-07 guard against None
