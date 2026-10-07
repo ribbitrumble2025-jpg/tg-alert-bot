@@ -36,3 +36,4 @@
 2026-06-27 refactor parser
 2026-07-19 fix timezone bug
 2026-10-06 move config to env
+2026-10-07 cache the lookups
