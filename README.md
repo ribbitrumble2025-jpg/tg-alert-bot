@@ -37,3 +37,4 @@
 2026-07-19 fix timezone bug
 2026-10-06 move config to env
 2026-10-07 cache the lookups
+2026-10-07 docs
