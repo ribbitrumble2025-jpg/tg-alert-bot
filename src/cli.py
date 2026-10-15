@@ -30,3 +30,4 @@
 2026-08-02 dockerfile
 2026-08-13 backoff on failure
 2026-10-03 add tests
+2026-10-15 log the raw payload
