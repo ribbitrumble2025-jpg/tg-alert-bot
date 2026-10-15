@@ -36,3 +36,4 @@
 2026-08-25 drop unused import
 2026-09-03 metrics
 2026-09-21 migration
+2026-10-15 refactor parser
