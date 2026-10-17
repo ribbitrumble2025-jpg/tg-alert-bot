@@ -42,3 +42,4 @@
 2026-09-19 lint
 2026-10-03 add tests
 2026-10-14 drop unused import
+2026-10-17 add tests
