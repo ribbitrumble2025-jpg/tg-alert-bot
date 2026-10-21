@@ -46,3 +46,4 @@
 2026-08-15 cache the lookups
 2026-08-23 refactor parser
 2026-08-31 add cli flag
+2026-10-21 revert
