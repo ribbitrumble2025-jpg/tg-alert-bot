@@ -39,3 +39,4 @@
 2026-10-07 cache the lookups
 2026-10-07 docs
 2026-10-10 pagination fix
+2026-10-21 bump deps
