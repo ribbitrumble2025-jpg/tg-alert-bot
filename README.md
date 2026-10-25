@@ -40,3 +40,4 @@
 2026-10-07 docs
 2026-10-10 pagination fix
 2026-10-21 bump deps
+2026-10-25 drop unused import
