@@ -38,3 +38,4 @@
 2026-09-21 migration
 2026-10-15 refactor parser
 2026-10-16 add cli flag
+2026-10-29 pagination fix
