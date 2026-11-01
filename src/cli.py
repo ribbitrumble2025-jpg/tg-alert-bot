@@ -32,3 +32,4 @@
 2026-10-03 add tests
 2026-10-15 log the raw payload
 2026-10-27 cache the lookups
+2026-11-01 bump deps
