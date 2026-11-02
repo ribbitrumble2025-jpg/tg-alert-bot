@@ -47,3 +47,4 @@
 2026-08-23 refactor parser
 2026-08-31 add cli flag
 2026-10-21 revert
+2026-11-02 bump deps
