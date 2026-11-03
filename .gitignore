@@ -43,3 +43,4 @@
 2026-10-17 fix timezone bug
 2026-11-01 move config to env
 2026-11-03 pagination fix
+2026-11-03 handle empty response
