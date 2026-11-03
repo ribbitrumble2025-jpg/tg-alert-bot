@@ -42,3 +42,4 @@
 2026-10-07 guard against None
 2026-10-17 fix timezone bug
 2026-11-01 move config to env
+2026-11-03 pagination fix
